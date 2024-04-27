@@ -2,7 +2,7 @@
 - 👀 I’m passionate about Data Science, Machine Learning, Artificial Intelligence and ML OPS.
 - 🌱 I’m currently building my foundation on AI, ML and Deep Learning.
 - 💞️ I’m looking to collaborate on ML projects as well as build some of my own.
-- 📫 email:sayanroy42@gmail.com, github:https://github.com/sayanroy11
+- 📫 email:sayanroy42@gmail.com, github:https://github.com/sayanroy11, linkedin:https://www.linkedin.com/in/sayan-roy-800456/
 
 <!---
 sayanroy11/sayanroy11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
