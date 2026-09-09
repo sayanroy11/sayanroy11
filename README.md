@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sayanroy11
+- 👋 Hi, I’m Sayan
 - 👀 I’m passionate about ML, Deep Learning, LLMs and ML OPS.
 - 🌱 Currently, I’m strengthening my foundations in Machine Learning and Deep Learning while exploring LLM applications and Knowledge Graphs.
 - 💞️ I’m looking to collaborate on Data Science projects as well as build some of my own.
